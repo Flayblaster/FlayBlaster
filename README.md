@@ -1,8 +1,6 @@
 <h1 align="center">Prazer meu nome é Davi</h1>
 <h3 align="center">Tenho 19 anos, sou brasileiro e trabalho como Cientista de dados</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=havi-dev-py" alt="havi-dev-py" /></a> </p>
-
 - 🌱 I’m currently learning **Ciências de dados - EBAC**
 
 - 📫 How to reach me **dvszlvr@gmail.com**
