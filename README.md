@@ -1,26 +1,56 @@
-<h1 align="center">Hello World!!</h1>
-<h3 align="center">Hi, my name is Davi, i live in Brazil 🇧🇷</h3 &#U+1F1E7 U+1F1F7>
-<h3 align="center">I'am 21 years old and <stronger>welcome</stronger> to my github page</h3>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-- 📚 I’m currently studying **Ciências de dados - Federal University of Mato Grosso do Sul - UFMS**
-<ul>
-  <li>How to reach me:</li>
-  <ul>
-    <li>Email: dvszlvr@gmail.com</li>
-    <li>📄 Know about my experiences: [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)</li>
-    <li>Instagram: <a href="https://instagram.com/davisouzaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davisouzaoli" height="30" width="40" /></a></li>
-  </ul>
-</ul>
+## Sobre mim
 
-<ul>
-  <li>Main language: <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  Python
-  </li>
-  <ul>
-    <li><p>
-    I love learn Python since seventeen, when i start as a hobby read about python until now!<br>
-    You can search more about my route in my Linkedin: <a href="[https://img.icons8.com/color/1200/linkedin.jpg](https://br.linkedin.com/)" target="_blank" rel="noreferrer"> <img img align="center" src="https://img.icons8.com/color/1200/linkedin.jpg" ant="Linkedin" width="40" height="40"/> <a/>
-    </p></li>
-  </ul>
-</ul>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
+## Minhas Skills
+
+**Aplicações e dados**
+
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
