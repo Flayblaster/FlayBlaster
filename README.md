@@ -9,7 +9,9 @@
     <li>dvszlvr@gmail.com</li>
   </ul>
 </ul>
-- 📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)
+<ul>
+  📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
