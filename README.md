@@ -10,8 +10,6 @@
   <ol></ol>
   <ol></ol>
 </ul>
-- 📫 How to reach me:
-
 - 📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)
 
 <h3 align="left">Connect with me:</h3>
