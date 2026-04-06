@@ -15,12 +15,12 @@
 <ul>
   <li>Main language: <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   Python
-  <li>
-    <p>
+  </li>
+  <ul>
+    <li><p>
     I love learn Python since twenyty one, when i start as a hobby read about python until now!<br>
     You can search more about my route in my Linkedin: <a href="[https://img.icons8.com/color/1200/linkedin.jpg](https://br.linkedin.com/)" target="_blank" rel="noreferrer"> <img img align="center" src="https://img.icons8.com/color/1200/linkedin.jpg" ant="Linkedin" width="40" height="40"/> <a/>
-    </p>
-  </li>
-  </li>
+    </p></li>
+  </ul>
 </ul>
 
