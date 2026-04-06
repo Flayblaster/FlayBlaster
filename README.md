@@ -5,9 +5,7 @@
 - 📚 I’m currently studying **Ciências de dados - Federal University of Mato Grosso do Sul - UFMS**
 - How to reach me:
 <ul>
-  <ol>
-    <li>**dvszlvr@gmail.com**</li>
-  </ol>
+  <li>dvszlvr@gmail.com</li>
 </ul>
 - 📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)
 
