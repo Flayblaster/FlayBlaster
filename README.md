@@ -6,17 +6,17 @@
 <ul>
   <li>How to reach me:</li>
   <ul>
-    <li>dvszlvr@gmail.com</li>
+    <li>My Email: dvszlvr@gmail.com</li>
+    <li>📄 Know about my experiences: [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)</li>
+    <li>Instagram: <a href="https://instagram.com/davisouzaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davisouzaoli" height="30" width="40" /></a></li>
+    <li><a href="https://instagram.com/davisouzaoli" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="davisouzaoli" height="30" width="30" /></a></li>
   </ul>
-</ul>
-<ul>
-  <li>📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/davisouzaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davisouzaoli" height="30" width="40" /></a>
-<a href="https://instagram.com/davisouzaoli" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="davisouzaoli" height="30" width="30" /></a>
+
+
   
 </p>
 
