@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!!</h1>
-<h3 align="center">Hi, my name is Davi, i live in Brazil &#🇧🇷</h3 &#U+1F1E7 U+1F1F7>
+<h3 align="center">Hi, my name is Davi, i live in Brazil 🇧🇷</h3 &#U+1F1E7 U+1F1F7>
 <h3 align="center">I'am 21 years old and this is my github page</h3>
 
 - 🌱 I’m currently learning **Ciências de dados - EBAC**
