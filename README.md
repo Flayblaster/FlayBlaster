@@ -10,7 +10,7 @@
   </ul>
 </ul>
 <ul>
-  📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)
+  <li>📄 Know about my experiences [www.linkedin.com/in/davi-dev-py](www.linkedin.com/in/davi-dev-py)</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
