@@ -3,8 +3,8 @@
 <h3 align="center">I'am 21 years old and <stronger>welcome</stronger> to my github page</h3>
 
 - 📚 I’m currently studying **Ciências de dados - Federal University of Mato Grosso do Sul - UFMS**
-- How to reach me:
 <ul>
+  <li>How to reach me:</li>
   <ul>
     <li>dvszlvr@gmail.com</li>
   </ul>
