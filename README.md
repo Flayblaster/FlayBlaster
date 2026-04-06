@@ -13,4 +13,8 @@
 </ul>
 
 <h3 align="left">My main language:</h3>
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> </p>
+<p>
+  <h4>I love learn Python since twenyty one, when i start as a hobby read about python until now!<br>
+  You can search more about my route in my Linkedin: <a href="[https://img.icons8.com/color/1200/linkedin.jpg](https://br.linkedin.com/)" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1200/linkedin.jpg" ant="Linkedin" width="40" height="40"/> <a/> </h4>
+</p>
